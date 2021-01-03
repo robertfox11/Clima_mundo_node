@@ -13,3 +13,12 @@ peticiones
 ## axios
 tenemos que instalar axios
 npm i axios
+
+## utilizamos Open Weather para tener informacion del clima
+
+https://openweathermap.org/current#geo
+api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+
+mi appid keys 
+https://home.openweathermap.org/api_keys
+4343f0c67575ba0959007b6418ccce30
